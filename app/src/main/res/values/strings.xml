@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoPushNotification</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="set_schedule">Set schedule</string>
+    <string name="once_time">Once time</string>
+    <string name="periodic">Periodic</string>
+</resources>
